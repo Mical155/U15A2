@@ -41,8 +41,3 @@
 - Code compatibility - It is also important to ensure the code is compatible and works on different browsers and devices. This can be done by conducting compatibility testing. 
 
 - Leaving comments - Leaving comments within the code will make it much easier for the developer to understand what the intentions are in different parts of the code and make it more simple to navigate through the code.
-
-
-
-
-
