@@ -4,7 +4,7 @@
 
 |   | Identify requirements  | Website storyboards  | Design website  |   
 |---|---|---|---|
-| Date | 30th January  |   |   |  
+| Date | 30th January  | 2nd February  |   |  
 
 |   | Justify design choices  | Test website  | Gather feedback |   
 |---|---|---|---|
@@ -41,3 +41,45 @@
 - Code compatibility - It is also important to ensure the code is compatible and works on different browsers and devices. This can be done by conducting compatibility testing. 
 
 - Leaving comments - Leaving comments within the code will make it much easier for the developer to understand what the intentions are in different parts of the code and make it more simple to navigate through the code.
+
+## Web page storyboards + Justifications
+
+In order to put my ideas for the websites appearance into visual perspective, I created some storyboards so to give an idea of what the storyboard can potentially look like.
+
+### Home page
+
+
+
+### Our staff page
+
+![Alt text](../assets/storyboards/OurStaffProfilesPage.png)
+
+#### Content design:
+
+|   | A  | B  | C  | D | E |
+|---|---|---|---|---|---|
+| Type  | Nav bar  | Header  | Image  | Text box  | Background |
+| Width  |   |   |   |   | Web page width |
+| Height  |   |   |   |   | Web page height |
+| Color  | #000000 | #FFFFFF  | Default RGB image colors | #FFFFFF  | #FFD6D6 |
+
+I have chosen this as my main design since it looks very appealing and professional which is one of the main user requirements listed. Firstly, I believe the nav bar achieves the requirement of having simple navigation since the names of web pages are specific and there isn't too many options to make it complex. Secondly, the color scheme looks very professional and all of the colors mix well with each other and are suitable for the content they're applied to. The layout is very organized and simplistic which achieves the requirement of having the website visually professional. This also achieves showcasing the trainees experience at Hot Beans since the web page very clearly showcases it with the addition of the trainees personal profile image.
+
+## Alternate web page designs
+
+Whilst creating the storyboards for the websites web pages, I ended up creating multiple potential designs for them. Here are the alternate designs I ended up not choosing due to a number of reasons as to why the ones I am using are much more suitable for achieving the clients requirements.
+
+### Our Staff page (Alternate design)
+
+![Alt text](../assets/storyboards/OurStaffProfilesPage(AlternateDesign).png)
+
+|   | A  | B  | C  | D | E |
+|---|---|---|---|---|---|
+| Type  | Nav bar  | Header  | Image  | Text box | Background |
+| Width  |   |   |   |   | Web page width |
+| Height  |   |   |   |   | Web page height |
+| Color  | #000000  | #000000  | Default RGB image colors  | #000000  | #FF6320 |
+
+Here is the alternate design for the 'Our Staff' web page. Firstly, the color scheme is very different compared to the main design, this uses much more black by having it applied to the text boxes and headers and the background is also orange instead of a lighter pink. I believe the main design has a better color scheme as it contains a wider variety whilst looking more professional as the pink mixes with the white boxes much more nicely in contrast to orange and black.
+
+Secondly, the layout of the web page is also different since the trainee profiles are in a row instead of a column. I believe the main design is better since the alternate design having them layed out in a row results in the images and text boxes being very compressed which can make spacing very odd for the text showcasing the trainees experience at Hot Beans which is something users will want to read. However, this does have the benefit of reducing the overall length of the web page reducing scrolling time for users but however considering the disadvantages, in my opinion, it is not worth it. 
