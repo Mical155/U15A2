@@ -5,76 +5,73 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="../assets/css/styles.css" rel="stylesheet">
 </head>
-<body>
-    <nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="navbar-nav">
-                <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Features</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Pricing</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-      </nav>
-      <main class="container">
-        <div class="row">
-        <aside class="col-12 col-lg-3 order-2 order-lg-1 bg-info-subtle">
-            <ul class="list-group">
-                <li class="list-group-item">One</li>
-                <li class="list-group-item">Two</li>
-                <li class="list-group-item">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam, amet! Quae consectetur, nisi ea quas reiciendis ducimus! Soluta fugit, provident, voluptatibus odio error, unde sit tenetur vitae deleniti voluptate ipsa.</li>
-                <li class="list-group-item">Four</li>
-                <li class="list-group-item">Five</li>
-            </ul>
-        </aside>
-        <article class="col-12 col-lg-9 order-1 order-lg-2 bg-warning-subtle">
-            <div class="card mb-3" style="max-width: 100%;">
-                <div class="row g-0">
-                  <div class="col-md-4">
-                    <img src="../examples/img/Icon.png" class="img-fluid rounded-start" alt="...">
-                  </div>
-                  <div class="col-md-8">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="card mb-3" style="max-width: 100%;">
-                <div class="row g-0">
-                  <div class="col-md-4">
-                    <img src="../examples/img/sea2.jpg" class="img-fluid rounded-start" alt="...">
-                  </div>
-                  <div class="col-md-8">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-        </article>
+<body style="background-color: rgb(255, 204, 212);">
+  <nav class="navbar navbar-expand bg-dark border-bottom border-body" data-bs-theme="dark">
+      <div class="container-fluid">
+        <button type="button" class="btn btn-dark btn">
+        <a class="navbar-brand" href="#">Home</a>
+        </button>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <button type="button" class="btn btn-dark">
+              <a class="nav-link active" aria-current="page" href="#">Our staff</a>
+              </button>
+            </li>
+            <li class="nav-item">
+              <button type="button" class="btn btn-dark">
+              <a class="nav-link active" href="#">Join our team</a>
+              </button>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" style="background-color: rgb(255, 255, 255);" aria-label="Search">
+            <button class="btn btn-outline-light" type="submit">Search</button>
+          </form>
         </div>
-      </main>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-  </body>
+      </div>
+  </nav>
+    <div class="container">
+      <div class="header-container">
+        <p>Welcome to Hot Beans!</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <h2 class="card-title">About us</h2>
+          <p>Hot Beans is a cutting-edge web development company dedicated to providing innovative digital solutions tailored to meet the unique needs of our clients. With a team of highly skilled developers, designers, and strategists, we strive to deliver top-notch web experiences that drive business growth and exceed expectations.</p>
+        <h4 class="card-title">Mission statement:</h4>
+          <p>At Hot Beans, our mission is to empower businesses of all sizes with powerful web solutions that enhance their online presence, streamline operations, and foster sustainable growth. We are committed to leveraging the latest technologies and best practices to deliver exceptional results that propel our clients to success.</p>
+        <h4 class="card-title">Services offered:</h4>
+          <p>Web Development: From simple static websites to complex e-commerce platforms, we specialize in building custom web solutions that align with our clients' objectives and deliver seamless user experiences.</p>
+          <p>Web Design: Our talented team of designers combines creativity with functionality to craft visually stunning websites that captivate audiences and reinforce brand identity.</p>
+          <p>E-commerce Solutions: We develop robust e-commerce platforms that enable businesses to sell products and services online efficiently, with features such as secure payment gateways, inventory management, and intuitive user interfaces.</p>
+          <p> Mobile App Development: In addition to web development, we also offer mobile app development services for both iOS and Android platforms, ensuring our clients can reach their target audience across various devices.</p>
+          <p>Digital Strategy: We work closely with our clients to develop comprehensive digital strategies that encompass web development, SEO, content marketing, social media, and more, to maximize their online presence and drive results.</p>
+        <h4 class="card-title">Core values:</h4>
+          <p>Excellence: We are committed to delivering excellence in everything we do, from the quality of our work to the level of service we provide to our clients.</p>
+          <p>Innovation: We embrace innovation and continuously explore new technologies and methodologies to stay ahead of the curve and deliver cutting-edge solutions.</p>
+          <p>Collaboration: We believe in the power of collaboration and work closely with our clients to understand their needs, goals, and challenges, ensuring we deliver solutions that exceed expectations.</p>
+          <p>Integrity: We conduct business with integrity, honesty, and transparency, building trust with our clients and fostering long-term relationships based on mutual respect and reliability.</p>
+          <p>Results-Driven: We are results-driven and focused on delivering tangible outcomes that help our clients achieve their business objectives and drive measurable success.</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <h2 class="card-title">Online Courses</h2>
+        <iframe width="100%" height="600px"
+        src="https://www.youtube.com/embed/Fop2oskTug8">
+       </iframe>
+      </div>
+    </div>
+    <div class="footer">
+      <dv class="footerbox">Copyright &copy; Hot Beans. All rights reserved</dv>
+    </div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
 </body>
 </html>

@@ -4,7 +4,7 @@
 
 |   | Identify requirements  | Website storyboards  | Design website  |   
 |---|---|---|---|
-| Date | 30th January  | 2nd February  |   |  
+| Date | 30th January  | 2nd February  | 5th February  |  
 
 |   | Justify design choices  | Test website  | Gather feedback |   
 |---|---|---|---|
