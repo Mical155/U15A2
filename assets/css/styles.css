@@ -3,14 +3,13 @@
 
 .header-container{
 	display: flex;
-	height: auto;
 	width: 25%;
 	margin-left: 35%;
 	margin-top: 70px;
 	border: 5px solid rgb(0, 0, 0);
 	padding: 14px;
 	border-radius: 10px;
-    background: white;
+    background: rgb(255, 255, 255);
     max-width: 450px;
     font-family: 'Teko', sans-serif;
     font-size: large;
@@ -29,15 +28,41 @@
 	font-size: large;
 }
 
+.card1 {
+	display: flex;
+	margin-left: 10%;
+	width: 1500px;
+	height: 50vh;
+	margin-top: 70px;
+	text-align: center;
+	border: 5px solid rgb(0, 0, 0);
+	font-family: 'Teko', sans-serif;
+	font-size: large;
+	background-color: rgb(255, 255, 255);
+	border-radius: 10px;
+}
+
+.card2 {
+	display: flex;
+	margin-left: 23.5%;
+	width: 925px;
+	margin-top: 70px;
+	border: 5px solid rgb(0, 0, 0);
+	font-family: 'Teko', sans-serif;
+	font-size: large;
+	background-color: rgb(255, 255, 255);
+	border-radius: 10px;
+}
+
 .footer {
 	width: 100%;
 	border: solid rgb(0, 0, 0) 5px;
 	background-color: rgb(0, 0, 0);
 	margin-top: 70px;
-	color: white;
+	color: rgb(255, 255, 255);
 }
 
-  .footerbox {
+.footerbox {
 	position: relative;
 	left: 30%;
 	width: 10%;
