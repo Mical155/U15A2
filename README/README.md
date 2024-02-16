@@ -8,7 +8,7 @@
 
 |   | Justify design choices  | Review website  | Test website |   
 |---|---|---|---|
-| Date | 10th February  | 12th February  |   | 
+| Date | 10th February  | 14th February  |   | 
 
 |   | Gather feedback  | Optimize website | Evaluate optimized website |   
 |---|---|---|---|
