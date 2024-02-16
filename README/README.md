@@ -6,11 +6,11 @@
 |---|---|---|---|
 | Date | 30th January  | 2nd February  | 5th February  |  
 
-|   | Justify design choices  | Test website  | Gather feedback |   
+|   | Justify design choices  | Review website  | Test website |   
 |---|---|---|---|
-| Date | 10th February  |   |   | 
+| Date | 10th February  | 12th February  |   | 
 
-|   | Optimize website  | Gather evidence of optimized website | Evaluate optimized website |   
+|   | Gather feedback  | Optimize website | Evaluate optimized website |   
 |---|---|---|---|
 | Date |   |   |   | 
  
@@ -22,13 +22,13 @@
 
 - Clear and engaging company overview - The introduction to Hot Beans for potential employees needs to be engaging and provides great detail in terms of the companies aims, goals and intentions. Would also be ideal to include the companies background or recent work.
 
-- Trainee Testimony - Would also be ideal to include testimonials from existing trainee web developers that are apart of the company. This will allow current employees to share their experience at Hot Beans with users who can be potential future employees.
+- Current trainee profiles - Would also be ideal to include testimonials from existing trainee web developers that are apart of the company. This will allow current employees to share their experience at Hot Beans and to give users more of an idea of what work is performed at Hot Beans.
 
 - Professional/organized website design - Ensure that the website is visually pleasing and professional as it is a web development company and would have a higher chance of appealing to web developers than the website looking very unorganized.
 
-- Simple application process - It is important to make the online application process as simple as possible. This can be done by clearly outlining the steps to users and it must be user-friendly with clear instructions and relevant fields.
+- Simple application process - It is important to make the online application process as simple as possible. This can be done by clearly outlining the steps to users and it must be user-friendly with clear instructions and relevant fields whilst also making sure they are steps that will gather key information about the user and their relation with web development.
 
-- Social media integration - It is also important to integrate links to maybe certain YouTube videos to showcase to users the companies purpose and what they do.
+- Links to web development courses - It is also important to integrate links to maybe certain YouTube video web development course so that users can develop their web development skills.
 
 ## Developer Requirements 
 
@@ -59,7 +59,7 @@ In order to put my ideas for the websites appearance into visual perspective, I 
 | Height  | 80px  | 125px  | 1150px  | 600px  | Web page height |
 | Color  | #000000 | #FFFFFF  | #FFFFFF | Default colors  | #FFD6D6 |
 
-I have decided to have this as my main design for the Hot Beans home page for a number of reasons. Firstly, this design achieves two of the clients requirements and that is showcasing a clear company overview as it contains a decently large section on introducing the company to users, plus it contains a video link that will direct users to web development courses which achieves in having social media integration. Secondly, I believe the nav bar achieves the requirement of having simple navigation since the names of web pages are specific and there isn't too many options to make it complex. Finally, the overall layout and the color scheme is neat and achieves in making the website visually organized and professional.
+I have decided to have this as my main design for the Hot Beans home page for a number of reasons. Firstly, this design achieves two of the clients requirements and that is showcasing a clear company overview as it contains a decently large section on introducing the company to users, plus it contains a video link that will direct users to web development courses which achieves in having web development video links. Secondly, I believe the nav bar achieves the requirement of having simple navigation since the names of web pages are specific and there isn't too many options to make it complex. Finally, the overall layout and the color scheme is neat and achieves in making the website visually organized and professional.
 
 ### Our staff page
 
@@ -133,6 +133,30 @@ Like the last alternate design, the color scheme isn't really suitable and doesn
 
 After creating the website based off my chosen storyboards, I decided to make my own personal review on the current designs of the different web pages. Here I cover what requirements the current website achieves and future ideas that can be implemented for improvement.
 
+### Home page:
+
 ![Alt text](../assets/img/other/HomePage1.png)
+
+Firstly, I believe the home page gives off a very professional look for to users due to the simplistic layout and use of colors. The navigation at the top of the screen is also simple and easy to use to ensure that navigating through the website for users isn't complex. However, the search bar on the right-hand side can't be used yet as I haven't implemented the code for it to be functional yet, it would be best to have the search bar direct users to a notification that will explain this to make sure they're aware. The color scheme mainly consists of black and white with pink as the background. The text size is at a reasonable size which promotes readability and it uses 'Teko' sans-serf font style which is also readable and looks very suitable for a website based on web development. In my opinion, the 'About us' section on this page achieves the requirement of providing users with a clear and engaging company overview as it goes over many key details such as their mission statement, services offered and core values.
+
+![Alt text](../assets/img/other/HomePage2.png)
+
+Towards the bottom of the home page I have also included a youtube video link which is a web development course for users that view this website and want to develop their web development skills, in my opinion, this achieves the requirement of the website containing links to web development course videos. I also decided to add a footer at the bottom of the web page to highlight where the end of the web page is and to prevent copyright infringement as it contains the copyright icon next to Hot Beans.
+
+### Our staff page:
+
+![Alt text](../assets/img/other/OurStaffPage1.png)
+
+Firstly, the 'Our staff' web page has a similar layout and color scheme to the home page which is great as it proves the website maintains consistency throughout in terms of its design. However, one issue I did notice is the header 'Our current trainees' being off-centre, I have made sure to note this down and edit it to be more centered in future. Secondly, the trainee profiles are the main focus on this web page and personally I think they are great at showcasing current trainees experience at Hot Beans to give potential trainees viewing the website a better understanding of what Hot Beans expects from its employees and what work is performed, this is also one of the requirements which I believe it achieves.
+
+![Alt text](../assets/img/other/OurStaffPage2.png)
+
+The trainee profiles continue towards the end of the web page and they all provide the users insight onto current trainees experiences at Hot Beans. At the bottom of the page is the same footer with the same copyright information to prevent copyright infringement. The bottom of the ends pretty much the same as the home page and the overall design of the web page stays consistent throughout as it uses the same design choices used on the home page and others. 
+
+### Join our team page:
+
+![Alt text](../assets/img/other/JoinOurTeamPage1.png)
+
+Firstly, the top of the 'Join our team' web page consists of the same nav bar as the other pages in the website which proves the website maintains its consistency and it also improves the overall navigation since the nav bar is accessible on all web pages. The first piece of content users will be greeted to is a form for them to fill out if they want to join Hot Beans team, the form contains what was mentioned on the storyboard which is an email address, password and a 'Why do want to join us?' box. I also included other content that was on the alternate storyboard design as I thought they would be suitable to have on the user form, the new additions are a phone number and 'Have any experience?' box. I chose all of these to be included within the user form as I believe they achieve the requirement of having a simple application process with user-friendly steps and they are also steps that will have the user fill in relevant information related to web development. However, one issue I did notice with the form is the 'Why do you want to join us?' box will have any text start from the middle instead of from the top, I will make sure to edit this to make sure it starts from the top in future. The submit button at the bottom of the form doesn't functionally work like the search button on the nav bar, for now I will also have this direct users to a notification explaining this hasn't been implemented yet when clicked on.
 
 
