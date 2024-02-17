@@ -6,13 +6,15 @@
 |---|---|---|---|
 | Date | 30th January  | 2nd February  | 5th February  |  
 
+
 |   | Justify design choices  | Review website  | Test website |   
 |---|---|---|---|
-| Date | 10th February  | 14th February  |   | 
+| Date | 10th February  | 14th February  | 16th February  | 
+
 
 |   | Gather feedback  | Optimize website | Evaluate optimized website |   
 |---|---|---|---|
-| Date |   |   |   | 
+| Date | 19th February  | 21st February  | 23rd February  | 
  
 ## User Requirements
 
@@ -29,6 +31,8 @@
 - Simple application process - It is important to make the online application process as simple as possible. This can be done by clearly outlining the steps to users and it must be user-friendly with clear instructions and relevant fields whilst also making sure they are steps that will gather key information about the user and their relation with web development.
 
 - Links to web development courses - It is also important to integrate links to maybe certain YouTube video web development course so that users can develop their web development skills.
+
+- Provides specifications and qualifications - The website should also provide users with a description on the job specifications and qualifications so they are aware of what the company expects of them and what is required to join the team.
 
 ## Developer Requirements 
 
@@ -158,4 +162,8 @@ The trainee profiles continue towards the end of the web page and they all provi
 ![Alt text](../assets/img/other/JoinOurTeamPage1.png)
 
 Firstly, the top of the 'Join our team' web page consists of the same nav bar as the other pages in the website which proves the website maintains its consistency and it also improves the overall navigation since the nav bar is accessible on all web pages. The first piece of content users will be greeted to is a form for them to fill out if they want to join Hot Beans team, the form contains what was mentioned on the storyboard which is an email address, password and a 'Why do want to join us?' box. I also included other content that was on the alternate storyboard design as I thought they would be suitable to have on the user form, the new additions are a phone number and 'Have any experience?' box. I chose all of these to be included within the user form as I believe they achieve the requirement of having a simple application process with user-friendly steps and they are also steps that will have the user fill in relevant information related to web development. However, one issue I did notice with the form is the 'Why do you want to join us?' box will have any text start from the middle instead of from the top, I will make sure to edit this to make sure it starts from the top in future. The submit button at the bottom of the form doesn't functionally work like the search button on the nav bar, for now I will also have this direct users to a notification explaining this hasn't been implemented yet when clicked on.
+
+![alt text](../assets/img/other/JoinOurTeamPage2.png)
+
+At the bottom of the web page is simply a section that showcases the job specifications and qualifications for being a web developer at Hot Beans. This part of the web page follows the same design as the rest of the web page \and other web pages within the website. I believe this achieves the user requirement of providing clear specifications and qualifications required to join Hot Beans team, this is because it is able to highlight exactly what experience Hot Beans wants proof of and what technologies they expect users to have knowledge of and the exact qualifications needed. It also clearly covers what you'll be responsible for and is very descriptive about the users role as a web developer.
 
