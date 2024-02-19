@@ -167,3 +167,49 @@ Firstly, the top of the 'Join our team' web page consists of the same nav bar as
 
 At the bottom of the web page is simply a section that showcases the job specifications and qualifications for being a web developer at Hot Beans. This part of the web page follows the same design as the rest of the web page \and other web pages within the website. I believe this achieves the user requirement of providing clear specifications and qualifications required to join Hot Beans team, this is because it is able to highlight exactly what experience Hot Beans wants proof of and what technologies they expect users to have knowledge of and the exact qualifications needed. It also clearly covers what you'll be responsible for and is very descriptive about the users role as a web developer.
 
+## Website Testing
+
+### Compatibility:
+
+To test the compatibility of the website I would take this website onto different browsers to make sure it will render as intended. This ensures that the website can be used on multiple browsers so it can be accessible to different users that use different browsers. The browsers I chose to test the website on were Google Chrome, Microsoft Edge and Firefox.
+
+#### Here is the website rendered in on these browsers:
+
+![alt text](../assets/img/other/WebsiteGoogle.png)
+
+![alt text](../assets/img/other/WebsiteEdge.png)
+
+After confirming that the website worked on different browsers, I would then test it out on a phone to see how it renders on a smaller screen. When it rendered in I could see that there were some issues with the design. The website
+still functionally works well and works as intended, however the layout and design do have some issues dut to the compression of the web page since it is on a smaller screen. The compression of the web page mainly affected the nav bar, headers, video sizing, form positioning and the footer. Despite the issues with layout, the website still functionally works as intended but in future changes I will edit this so the website will look more visually pleasing on a phone screen.
+
+#### Here are the issues with layout on the compressed web page:
+
+Nav bar issue
+
+![alt text](../assets/img/other/NavBarIssue.png)
+
+Here it is cleat that the items within the nav bar become off-centred when the wbe page is compressed and the text stacks on top of each other. The items still take the user to the requested web page as intended.
+
+Header issue
+
+![alt text](../assets/img/other/HeaderIssue2.png)
+
+It is clearly visible here that the header is very off-centred when the web page is compressed and it looks more out of place from the rest of the content within the web page. However, the text within the header container is still in the center as intended.
+
+Video sizing issue
+
+![alt text](../assets/img/other/VideoSizingIssue.png)
+
+As we can see from this image the video has been made extremely thin due to the compression of the web page and it will reduce the size of the video whilst playing, this then reduces overall usability since it is more difficult for users to watch it since the video is smaller in size. Yet again it still functionally works and is able to be played and it is only the size that needs to be changed in future.
+
+Form positioning issue
+
+![alt text](../assets/img/other/FormPositioningIssue.png)
+
+From this image we can see the form is not contained within the screen after the web page is compressed. This leads to the overall positioning oif the form looking completely off so in future I will have to reposition the form.
+
+Footer Issue
+
+![alt text](../assets/img/other/FooterIssue.png)
+
+Here it is clear that the footer is definitely affected by the web page compression since the text goes off screen. This also leads to users having to scroll to the right to see the entire text which isn't user-friendly. In future, I will have to change this by editing the code to make the text remain in the centre when the web page is compressed.
