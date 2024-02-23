@@ -165,7 +165,7 @@ Firstly, the top of the 'Join our team' web page consists of the same nav bar as
 
 ![alt text](../assets/img/other/JoinOurTeamPage2.png)
 
-At the bottom of the web page is simply a section that showcases the job specifications and qualifications for being a web developer at Hot Beans. This part of the web page follows the same design as the rest of the web page \and other web pages within the website. I believe this achieves the user requirement of providing clear specifications and qualifications required to join Hot Beans team, this is because it is able to highlight exactly what experience Hot Beans wants proof of and what technologies they expect users to have knowledge of and the exact qualifications needed. It also clearly covers what you'll be responsible for and is very descriptive about the users role as a web developer.
+At the bottom of the web page is simply a section that showcases the job specifications and qualifications for being a web developer at Hot Beans. This part of the web page follows the same design as the rest of the web page and other web pages within the website. I believe this achieves the user requirement of providing clear specifications and qualifications required to join Hot Beans team, this is because it is able to highlight exactly what experience Hot Beans wants proof of and what technologies they expect users to have knowledge of and the exact qualifications needed. It also clearly covers what you'll be responsible for and is very descriptive about the users role as a web developer.
 
 ## Website Testing
 
@@ -213,3 +213,21 @@ Footer Issue
 ![alt text](../assets/img/other/FooterIssue.png)
 
 Here it is clear that the footer is definitely affected by the web page compression since the text goes off screen. This also leads to users having to scroll to the right to see the entire text which isn't user-friendly. In future, I will have to change this by editing the code to make the text remain in the centre when the web page is compressed.
+
+### Functionality:
+
+From my testing, I believe the website definitely does prove that it has some good functionality. Examples of good functionality is the functional navigation system as it flawlessly navigates users to their requested web pages. The embedded youtube video also works as intended and provides users with valuable information on learning web development in order to become trainees for Hot Beans. The form on the 'Join Our Team' web page allows users to write their answers within the provided text boxes and is a simple and easy to complete process for them, users can also shrink and expand the text boxes if they need to. Plus, buttons that are on the website are highlighted when hovered over to indicate they are intractable which is great for preventing users from missing them, examples of this are the items on the nav bar, the search button next to the search bar and the submit button on the form.
+
+Although there many examples of great functionality on my website, there are a few areas that need improving. Firstly, the search button used for searching for something put in the search bar ins't functional yet, it would be ideal to add a notification for when users click on it to notify them that the search buttons functions haven't been implemented yet. Secondly, the same thing should be done for the submit button on the form as it isn't functional yet and doesn't submit the information the user has entered. Plus, to also ensure better functionality, I will also have to fix the compression issues on the mobile version of the website as it looks visually unappealing and can prove to be a nuisance on smaller screen.
+
+### Usability:
+
+The website shows many examples of it having great usability and ease of use for users that view and use it. Firstly, the navigation of the website is easy to use and simple for users to understand as the nav bar is accessible on every web page, doesn't have too many web pages and each web page has a specific name that helps users identify which web page contains certain content. Secondly, the text boxes on the form are able to be expanded and shrunk by users promotes usability as it allows users to see text a lot better as they can expand the box in the case of the box being overloaded by text they are adding in. 
+
+![alt text](../assets/img/other/FormTextBoxes.png)
+
+The overall size of containers on the web pages promote usability as it provides enough space for the text to be visually organized and therefore making it easier for users to read. The text boxes on the staff profiles also showcases good usability since the text gets placed underneath the staff images to ensure good readability after the compression of the entire web page.
+
+![alt text](../assets/img/other/StaffProfiles.png)
+
+Although the website shows great usability, like functionality, there are areas that do require some improvement. Firstly, the compression issues mentioned already will bring usability issues as the compression will reorganize text and over compress it which makes it more difficult for users to read it. Secondly, the compressed video size on the mobile version makes it harder for users to view the video as the video is smaller in size and it is also harder to interact with as the buttons are reorganized. 
