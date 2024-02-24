@@ -231,3 +231,19 @@ The overall size of containers on the web pages promote usability as it provides
 ![alt text](../assets/img/other/StaffProfiles.png)
 
 Although the website shows great usability, like functionality, there are areas that do require some improvement. Firstly, the compression issues mentioned already will bring usability issues as the compression will reorganize text and over compress it which makes it more difficult for users to read it. Secondly, the compressed video size on the mobile version makes it harder for users to view the video as the video is smaller in size and it is also harder to interact with as the buttons are reorganized. 
+
+## Feedback from others
+
+In order to gain more of an idea of what I should be improving about the website, I decided to gain feedback from other people that can view the website and is use it for themselves. This information will help me make improvements on the websites overall functionality, compatibility and usability.
+
+### 1st Feedback
+
+The website design is commendable, with its well-chosen colour scheme and typography enhancing accessibility. The overall layout facilitates easy comprehension and seamless navigation, contributing to a positive user experience. However, when the home page is resized, the text within the text boxes becomes misaligned or overflows, potentially causing frustration for users trying to read the content. This issue could lead to a disjointed browsing experience, hindering engagement and comprehension. - Luke Mauger
+
+Personally, I  agree with this piece of feedback for a number of reasons. Firstly, the reasoning is valid as the overflow of text due to the web page compression can definitely reduce the overall readability. Secondly, the repositioning of content can definitely make it frustrating for users and reduce the overall engagement. It will definitely be important for me to change this to ensure the content is visually more organized after the web page is compressed to a smaller size.
+
+### 2nd Feedback
+
+The website for Firefox works as intended, when resizing it does have some issues correctly positioning labels and squishes text offscreen. Images are also affected which makes them squished. The mobile version is not functioning as nearly nothing was intractable & had size/positioning issues. Other than those issues, the site looks great, the color scheme is nice and not too overbearing on the eyes, the buttons could use a bit of highlighting when not hovering over them to give me the sense they can be clicked on. - Aiden Scowen
+
+In my opinion, I also very much agree with this piece of feedback. Firstly, when it mentions the resizing issues I completely understand for the same reasons as the last feedback because it would reduce readability of text, usability and functionality, plus it proves the website isn't very compatible on mobile devices as the content can't compress properly. Also, I personally disagree with the button highlighting since I have made sure they are all highlighted when users hover over them with the cursor to indicate they can be intractable. In conclusion, I will make sure that the changes I make in future will be towards the resizing and repositioning of content after the web page compression, this is to ensure the website is compatible on mobile devices with smaller screens and it maintains its functionality and usability.

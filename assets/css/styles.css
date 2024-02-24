@@ -1,10 +1,17 @@
 @import url("https://fonts.googleapis.com/css?family=Lobster");
 @import url("https://fonts.googleapis.com/css?family=Oswald:300");
 
+.container {
+	display: flex;
+	position: relative;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+
 .header-container{
 	display: flex;
 	width: 50%;
-	margin-left: 35%;
 	margin-top: 70px;
 	border: 5px solid rgb(0, 0, 0);
 	padding: 14px;
@@ -19,8 +26,9 @@
 
 .card {
 	display: flex;
-	margin-left: 23.5%;
-	width: 50%;
+	position: relative;
+	justify-content: center;
+	width: 100%;
 	margin-top: 70px;
 	text-align: center;
 	border: 5px solid rgb(0, 0, 0);
@@ -44,7 +52,6 @@
 
 .card2 {
 	display: flex;
-	margin-left: 23.5%;
 	width: 925px;
 	margin-top: 70px;
 	border: 5px solid rgb(0, 0, 0);
@@ -64,10 +71,10 @@
 
 .footerbox {
 	position: relative;
-	left: 30%;
-	width: 10%;
-	height: 100%;
-	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	align-items: center;
 	font-family: 'Teko', sans-serif;
 }
 
