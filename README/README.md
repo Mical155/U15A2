@@ -247,3 +247,85 @@ Personally, I  agree with this piece of feedback for a number of reasons. Firstl
 The website for Firefox works as intended, when resizing it does have some issues correctly positioning labels and squishes text offscreen. Images are also affected which makes them squished. The mobile version is not functioning as nearly nothing was intractable & had size/positioning issues. Other than those issues, the site looks great, the color scheme is nice and not too overbearing on the eyes, the buttons could use a bit of highlighting when not hovering over them to give me the sense they can be clicked on. - Aiden Scowen
 
 In my opinion, I also very much agree with this piece of feedback. Firstly, when it mentions the resizing issues I completely understand for the same reasons as the last feedback because it would reduce readability of text, usability and functionality, plus it proves the website isn't very compatible on mobile devices as the content can't compress properly. Also, I personally disagree with the button highlighting since I have made sure they are all highlighted when users hover over them with the cursor to indicate they can be intractable. In conclusion, I will make sure that the changes I make in future will be towards the resizing and repositioning of content after the web page compression, this is to ensure the website is compatible on mobile devices with smaller screens and it maintains its functionality and usability.
+
+## Optimizing the website
+
+Based off the feedback, testing and the personal review of the website, I decided to make a number of improvements to the website to ensure it meets the clients requirements and has great functionality, compatibility and usability. 
+
+### Form issue fix
+
+One of the first things I made changes to was the form, my goal was to fix the issue it had with the text boxes that the users can fill in. The issue was that it made users start from the middle of the box instead of from the top. This issue would make the layering and positioning of text very awkward and it would be very unappealing for users and therefore it would reduce usability and functionality.
+
+Before:
+
+![alt text](../assets/img/other/FormIssue.png)
+
+After:
+
+![alt text](../assets/img/other/FormIssue(After).png)
+
+As you can see, the text now starts from the top as it should do instead of from the middle. This proves to users that the website has great functionality as the text boxes work as intended. This change also helps the website to achieve the requirement of users having a simple and easy application process without any errors or interruptions.
+
+### Header issue fix
+
+Based off of the personal review of the website, one of the issues I mentioned was text of the header being off-centre in the container. I would change this by repositioning the text so it's more in the centre to make it more visually appealing to users. I would also make sure it is centred when the web page is compressed to ensure it is centred on mobile devices which promotes compatibility.
+
+Before: 
+
+![alt text](../assets/img/other/HeaderIssue.png)
+
+After:
+
+![alt text](../assets/img/other/HeaderIssue(After).png)
+
+As you can see, the text within the container is in the centre and I have also added more text onto the header so it fills up the white space within the container. This change ensures good functionality and compatibility since the header is positioned as intended on both PC and mobile devices.
+
+### Footer issue fix
+
+This change was a result of the website testing results, whilst testing the website I mentioned how the footer is completely off screen when the web page is compressed which is an example of poor functionality and it isn't compatible for mobile devices. I would then edit the code to make sure the footer is no longer off screen and instead perfectly in the centre of the web page wether the web page is compressed or not.
+
+Before:
+
+![alt text](../assets/img/other/FooterIssue.png)
+
+After:
+
+![alt text](../assets/img/other/FooterIssue(After).png)
+
+As you can see from the changes it is definitely a massive improvement, the text is perfectly in the centre of the web page even when the web page is compressed which ensures compatibility and functionality. I have even reduced the size of the text as that was part of the reason as to why the text was going off screen.
+
+### Text box compression issue fix
+
+As a result of the first feedback received where it mentions compression issues with text boxes which leads to text overflow, I would make changes to the website in order to fix this problem as I am aware that it reduces the compatibility of the website since it makes it more frustrating for mobile phone users. The overflow of text makes the positioning and layering very odd and it reduces the readability since the text is very unorganized within a compressed space.
+
+Before:
+
+![alt text](../assets/img/other/HeaderIssue2.png)
+
+After:
+
+![alt text](../assets/img/other/CompressionIssue(After).png)
+
+From the images it is clear that the text box has a lot more space which has lead to the text not overflowing which promotes readability and usability. Plus, the header is more inline with the text box underneath after compression which achieves the requirement of having a responsive website and professional design/layout. 
+
+### Video sizing issue fix
+
+From the second feedback I was informed that the video has sizing issues since it would be extremely small and distorted whilst playing whilst the web page is compressed to a smaller size. I would make sure in the changes that the video is much more wider to prevent distortion due to the thin size as a result of the web page compression. This change would improve the compatibility of the website.
+
+Before:
+
+![alt text](../assets/img/other/VideoSizingIssue.png)
+
+After:
+
+![alt text](../assets/img/other/VideoSizingIssue(After).png)
+
+From the images we can see that the video is much larger than what was originally which is great as it reduces distortion which then promotes usability as it is easier for users to watch the video on mobile devices. This also achieves the requirement of having a fully functional video that provides users with a course on web development to improve their skills.
+
+### Search and submit buttons
+
+As I've mentioned multiple times in the personal review and testing, the search button on the nav bar and the submit button on the application form are not yet functional as I haven't been able to implement the code yet. I saw that it would be necessary to direct users to a web page with a notification informing them that part of the website hasn't been implemented yet. It would allow users to know that it is simply because of that part not being implemented yet instead of them assuming it to be an error with the website
+
+Here is the added message:
+
+![alt text](../assets/img/other/AddedMessage.png)
