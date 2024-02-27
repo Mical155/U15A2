@@ -364,7 +364,7 @@ Secondly, despite me fixing the forms compression issues, it cost some of the po
 
 ![alt text](../assets/img/other/CurrentForm.png)
 
-Lastly, their is a slight issue with the sizing of the profile images of the trainee profiles for when they get compressed. This doesn't affect the mobile version of the website since this issue only occurs for when the web page is slightly compressed and not all the way, so this issue would only occur for when users reduce the size of the window they are viewing the website on. In future I will have to fix this issue and ensure the image stays at a reasonable size whilst it is getting compressed to ensure good functionality.
+Lastly, there is a slight issue with the sizing of the profile images of the trainee profiles for when they get compressed. This doesn't affect the mobile version of the website since this issue only occurs for when the web page is slightly compressed and not all the way, so this issue would only occur for when users reduce the size of the window they are viewing the website on. In future I will have to fix this issue and ensure the image stays at a reasonable size whilst it is getting compressed to ensure good functionality.
 
 ### Summary
 
