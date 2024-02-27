@@ -1,5 +1,9 @@
 # Web development documentation 
 
+## Folder Structure
+
+![alt text](../assets/img/other/FolderStructure.png)
+
 ## Task Plan
 
 |   | Identify requirements  | Website storyboards  | Design website  |   
@@ -171,7 +175,7 @@ At the bottom of the web page is simply a section that showcases the job specifi
 
 ### Compatibility:
 
-To test the compatibility of the website I would take this website onto different browsers to make sure it will render as intended. This ensures that the website can be used on multiple browsers so it can be accessible to different users that use different browsers. The browsers I chose to test the website on were Google Chrome, Microsoft Edge and Firefox.
+To test the compatibility of the website I would take this website onto different browsers to make sure it will render as intended. This ensures that the website can be used on multiple browsers so it can be accessible to different users that use different browsers. The browsers I chose to test the website on were Google Chrome and Microsoft Edge.
 
 #### Here is the website rendered in on these browsers:
 
@@ -329,3 +333,39 @@ As I've mentioned multiple times in the personal review and testing, the search 
 Here is the added message:
 
 ![alt text](../assets/img/other/AddedMessage.png)
+
+## Evaluation
+
+After testing, receiving feedback and making improvements for the website, I have given my personal opinions and views of what future improvements I can make and a review of my skills in the creation of this website. I will also cover my performance by going over what went well and what could've been better.
+
+### What Went Well
+
+Personally, I believe the websites achieves all of the mentioned clients requirements for a number of reasons. Firstly, the website contains the required content mentioned within the brief such as the web development course video, an application form, a profile of the company, profiles of existing trainee web developers and the job specifications and required qualifications. Secondly, I personally think the website has a very professional and organized layout which is essential and especially for a web development company, the color scheme isn't overwhelming for users, the navigation is also very simplistic and easy for users to understand which promotes usability. Finally, I believe the improvements I had made to the website were very great decisions and I was able to pick out these improvements very efficiently whilst testing the website to ensure functionality, compatibility and usability.
+
+Another thing I believe that went well was achieving the developer requirements for when it came to the code for the website. Throughout the process of creating the website, I would focus on making sure the code isn't complex so that it is easier for me to edit it when I needed to. I would even add comments into the code so that I remember where certain parts of the website are in the code and to ensure code maintainability.
+
+![alt text](../assets/img/other/WebsiteCode.png)
+
+As you can see from the code there are comments on the most important parts of the code to remind me where things are and to ensure the ease of modifying the code. The code was also had very good reusability as I was able to copy this onto the other web pages since the website had great consistency in terms of its design and layout.
+
+### Even Better If
+
+There a few things that I wished would've went better. To begin, there are a few issues that still remain on the website, they aren't serious issues have a massive impact on the website but it would be great to fix them to ensure good functionality, compatibility and usability. 
+
+Firstly, the nav bar text still has odd layering for when the page gets compressed. This makes the nav bar look unappealing for users and makes it look unorganized. In future, one possible solution is to have the nav bar items stored within a dropdown for when the page gets compressed to ensure the the text doesn't overflow. Plus, the more space there is the more wider the search bar can be to promote usability.
+
+#### Here are the nav bar items when the page is compressed:
+
+![alt text](../assets/img/other/NavBarItemsIssue.png)
+
+Secondly, despite me fixing the forms compression issues, it cost some of the positioning for when it is not compressed. It is still perfectly functional and organized but it has left a bit of white space inside of the container. Although this isn't a massive issue, it would still be ideal to fix this in future to make it more visually pleasing. As you can see I also make use of Bootstrap framework which does a lot of the heavy lifting in terms of the styling and it can easily be reused on different web pages.
+
+#### Here is the form when not compressed:
+
+![alt text](../assets/img/other/CurrentForm.png)
+
+Lastly, their is a slight issue with the sizing of the profile images of the trainee profiles for when they get compressed. This doesn't affect the mobile version of the website since this issue only occurs for when the web page is slightly compressed and not all the way, so this issue would only occur for when users reduce the size of the window they are viewing the website on. In future I will have to fix this issue and ensure the image stays at a reasonable size whilst it is getting compressed to ensure good functionality.
+
+### Summary
+
+In summary, I believe the final website meets the clients requirements and on top of that the code also meets the developers requirements as it is able to pursuit code maintainability, reusability and adaptability. Throughout the process I believe my performance was great since I was able to effectively identify issues and potential improvements by testing the website for its functionality and usability. Plus, I would also be able to test the website for its compatibility by testing it on different browsers and on mobile devices to ensure the website is accessible to users despite what browser or device they are using. The pros of the website completely outweigh the cons in my opinion as the remaining issues don't have a huge impact and can easily be fixed in future updates. I also believe this website is a great reflection of my skills in web development as I was able to produce a website that meets the clients requirements whilst also making sure the code was maintainable.
