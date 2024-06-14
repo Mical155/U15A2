@@ -236,6 +236,24 @@ The overall size of containers on the web pages promote usability as it provides
 
 Although the website shows great usability, like functionality, there are areas that do require some improvement. Firstly, the compression issues mentioned already will bring usability issues as the compression will reorganize text and over compress it which makes it more difficult for users to read it. Secondly, the compressed video size on the mobile version makes it harder for users to view the video as the video is smaller in size and it is also harder to interact with as the buttons are reorganized. 
 
+### Lighthouse testing:
+
+I would also run each of the web pages within the website through lighthouse in order to understand what areas are the most strongest about the web pages and also so I can see what needs improving. Here are images of the results for each web page:
+
+#### Home page
+
+![alt text](../assets/img/LighthouseTest.png)
+
+#### Our staff page
+
+![alt text](../assets/img/LighthouseTest2.png)
+
+#### Join our team page
+
+![alt text](../assets/img/LighthouseTest3.png)
+
+As we can see, overall the results are fairly good with high scores in all categories with the lowest one being best practices for the home page at 74, the reason for that would be the way the code is organized, it will be important for to change this in future to promote the codes maintainability. The SEO is consistent throughout all web pages being at an 83, the performance is lowest on the "Our staff" page and highest on the "Join our team" page. This is because of the amount of content on the "Our staff" page because there are a number of images on that web page which can affect the overall performance and loading times. Lastly, all web pages have good accessibility with all of them being above 80 which highlights that the website is accessible to a large variety of users.
+
 ## Feedback from others
 
 In order to gain more of an idea of what I should be improving about the website, I decided to gain feedback from other people that can view the website and is use it for themselves. This information will help me make improvements on the websites overall functionality, compatibility and usability.
@@ -333,6 +351,30 @@ As I've mentioned multiple times in the personal review and testing, the search 
 Here is the added message:
 
 ![alt text](../assets/img/other/AddedMessage.png)
+
+### Logo
+
+After creating my website, I thought it would be a great idea to create a logo for the Hot Beans website. I ensured that the logo was web development related and the logo also followed my chosen color scheme for the website. After finishing the logo I believe it fits the website nicely. Firstly, the colors are very similar to the color scheme for the website, the logo is web development created due to the added icon on the left side and overall I believe the logo will be visually appealing to users since it seems professional.
+
+![alt text](../assets/img/Logo.png)
+
+### Web page banner
+
+I decided to add a banner to each page of the website, this is because I believe the chosen banner adds more character to the website. I added a visually appealing background that is web development related due to the content on the background (computer, code etc).I also added the logo onto the banner because it will be the first thing the user is greeted with when they load any web page within the website. I also believe the logo fits decently well with the background since they contain similar colors and both are related to web development. Here is an image of the added banner:
+
+![alt text](../assets/img/Banner.png)
+
+### Staff profile change
+
+I would also change the staff profiles on the website to make the profile images more professionally scaled. originally the images did look poorly scaled and didn't fit correctly onto a website and it looked unprofessional. Now they have curved borders and are scaled correctly and look visually better. I also added a darker background to the card because I believe it fits the website style better than plain white. Here is an image of the new staff profiles:
+
+![alt text](../assets/img/StaffProfileChange.png)
+
+### Forms change
+
+After that, I would decide to change the form on the website. Originally the form was only on the left side of the container but now I have managed to place it in the center to make it more visually organized. I would do this by shrinking the container to the forms width because changing the forms width makes it overlap the container and looks visually unpleasing when the window is minimized. Here is an image of the changed form:
+
+![alt text](../assets/img/FormChange.png)
 
 ## Evaluation
 
